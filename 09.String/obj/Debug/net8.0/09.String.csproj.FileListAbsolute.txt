@@ -1,0 +1,14 @@
+C:\Users\VAIO\OneDrive\Desktop\09.String\bin\Debug\net8.0\09.String.exe
+C:\Users\VAIO\OneDrive\Desktop\09.String\bin\Debug\net8.0\09.String.deps.json
+C:\Users\VAIO\OneDrive\Desktop\09.String\bin\Debug\net8.0\09.String.runtimeconfig.json
+C:\Users\VAIO\OneDrive\Desktop\09.String\bin\Debug\net8.0\09.String.dll
+C:\Users\VAIO\OneDrive\Desktop\09.String\bin\Debug\net8.0\09.String.pdb
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.AssemblyInfoInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.AssemblyInfo.cs
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.dll
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\refint\09.String.dll
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.pdb
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\09.String.genruntimeconfig.cache
+C:\Users\VAIO\OneDrive\Desktop\09.String\obj\Debug\net8.0\ref\09.String.dll
