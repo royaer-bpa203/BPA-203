@@ -33,11 +33,11 @@
 //        static void Main()
 //        {
 //            Person p = new Person();
-//            p.Name = "Ali";
-//            p.City = "Baku";
+//            p.Name = "Roya";
+//            p.City = "Goranboy";
 //            p.Phone = "0501234567";
 
-//            p.SetAge(25); // private sahəyə public method ilə daxil oluruq
+//            p.SetAge(19); // private sahəyə public method ilə daxil oluruq
 //            Console.WriteLine("Age: " + p.GetAge());
 //        }
 //    }
