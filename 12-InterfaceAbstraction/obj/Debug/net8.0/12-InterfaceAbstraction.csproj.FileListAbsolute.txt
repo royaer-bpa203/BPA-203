@@ -1,0 +1,14 @@
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\bin\Debug\net8.0\12-InterfaceAbstraction.exe
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\bin\Debug\net8.0\12-InterfaceAbstraction.deps.json
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\bin\Debug\net8.0\12-InterfaceAbstraction.runtimeconfig.json
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\bin\Debug\net8.0\12-InterfaceAbstraction.dll
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\bin\Debug\net8.0\12-InterfaceAbstraction.pdb
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.AssemblyInfoInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.AssemblyInfo.cs
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.dll
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\refint\12-InterfaceAbstraction.dll
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.pdb
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\12-InterfaceAbstraction.genruntimeconfig.cache
+C:\Users\VAIO\OneDrive\Desktop\12-InterfaceAbstraction\obj\Debug\net8.0\ref\12-InterfaceAbstraction.dll
