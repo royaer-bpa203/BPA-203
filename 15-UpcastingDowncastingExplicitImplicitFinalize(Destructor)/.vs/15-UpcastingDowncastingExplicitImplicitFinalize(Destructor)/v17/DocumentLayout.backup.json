@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|c:\\users\\vaio\\onedrive\\desktop\\15-upcastingdowncastingexplicitimplicitfinalize(destructor)\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|solutionrelative:owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|c:\\users\\vaio\\onedrive\\desktop\\15-upcastingdowncastingexplicitimplicitfinalize(destructor)\\animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|solutionrelative:animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|c:\\users\\vaio\\onedrive\\desktop\\15-upcastingdowncastingexplicitimplicitfinalize(destructor)\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|c:\\users\\vaio\\onedrive\\desktop\\15-upcastingdowncastingexplicitimplicitfinalize(destructor)\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|c:\\users\\vaio\\onedrive\\desktop\\15-upcastingdowncastingexplicitimplicitfinalize(destructor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5E3853-81E5-448C-B9A4-9CA161D71788}|15-UpcastingDowncastingExplicitImplicitFinalize(Destructor).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:48:13.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\AnimalEventArgs.cs",
+              "RelativeDocumentMoniker": "AnimalEventArgs.cs",
+              "ToolTip": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\AnimalEventArgs.cs",
+              "RelativeToolTip": "AnimalEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:47:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Owl.cs",
+              "RelativeDocumentMoniker": "Owl.cs",
+              "ToolTip": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Owl.cs",
+              "RelativeToolTip": "Owl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:46:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:45:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VAIO\\OneDrive\\Desktop\\15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:22:40.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
