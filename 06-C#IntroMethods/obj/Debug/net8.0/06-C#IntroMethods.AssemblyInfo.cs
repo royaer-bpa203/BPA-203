@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06-C#IntroMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd541bf9c46c29c481a51f333f0b0f98ff7d26f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("06-C#IntroMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06-C#IntroMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

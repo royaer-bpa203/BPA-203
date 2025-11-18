@@ -1,0 +1,98 @@
+/* Arxa fon gradient */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg, #49c5f6, #6a49f6, #c149f6);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Login qutusu */
+.login-box {
+    background: #fff;
+    width: 350px;
+    padding: 30px;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+/* Close button */
+.close-btn {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* Başlıq */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Label və input */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #bcbcbc;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+/* Forgot password link */
+.forgot {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #5a99f8;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.forgot:hover {
+    text-decoration: underline;
+}
+
+/* Login button */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+
+    /* Gradient düymə */
+    background: linear-gradient(to right, #4bd0e7, #6e3ff6, #c042f6);
+}
+
+.login-btn:hover {
+    opacity: 0.9;
+}
+
+/* Signup text */
+.signup-text {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.signup-link {
+    color: #5a99f8;
+    text-decoration: none;
+}
+
+.signup-link:hover {
+    text-decoration: underline;
+}

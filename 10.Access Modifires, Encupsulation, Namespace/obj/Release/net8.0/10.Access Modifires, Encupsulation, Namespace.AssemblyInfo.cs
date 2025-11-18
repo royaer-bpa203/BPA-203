@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10e11f72077a135535423cba862ed7bf70b9f8c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd7f68132fc211c16cfbdbd6edee8f248544fe3")]
 [assembly: System.Reflection.AssemblyProductAttribute("10.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

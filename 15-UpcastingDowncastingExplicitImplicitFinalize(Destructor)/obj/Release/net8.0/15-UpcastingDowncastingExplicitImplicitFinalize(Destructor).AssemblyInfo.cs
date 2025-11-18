@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd7f68132fc211c16cfbdbd6edee8f248544fe3")]
 [assembly: System.Reflection.AssemblyProductAttribute("15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15-UpcastingDowncastingExplicitImplicitFinalize(Destructor)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
