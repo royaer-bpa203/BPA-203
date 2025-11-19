@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2C3E50;
+    padding: 30px;
+}
+
+header p{
+    color: white;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+nav ul{
+    display: flex;
+    gap: 10px;
+    padding: 0px 0px 20px 0px ;
+}
+nav ul li{
+    color: white;
+    list-style: none;
+}
+
+nav ul li:hover{
+    color: #1ABC9C;
+    cursor: pointer;
+}
