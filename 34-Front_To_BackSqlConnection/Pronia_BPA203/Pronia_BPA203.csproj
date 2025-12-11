@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Migrations\" />
+    <Folder Include="Models\" />
+    <Folder Include="ViewModels\" />
     <Folder Include="wwwroot\Assets\css\" />
     <Folder Include="wwwroot\Assets\fonts\" />
     <Folder Include="wwwroot\Assets\images\" />
